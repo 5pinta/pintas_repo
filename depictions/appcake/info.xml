@@ -1,0 +1,23 @@
+<package>
+	<id>com.iphonecake.appcake2.ios6.deb</id>
+	<name>AppCake</name>
+	<version>4.59</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>6.1.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AppCake for iOS 6 devices.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,23 @@
+<package>
+	<id>io.pangu.axe7_0.3_iphoneos-arm.deb</id>
+	<name>Pangu Update Patch</name>
+	<version>7.0.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Pangu Update Patch</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
