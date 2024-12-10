@@ -1,16 +1,42 @@
 Package: com.iphonecake.appcake2.ios6.deb
 Version: 4.59
-Section: Tweaks
+Section: Utilities
 Maintainer: Pinta
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.iphonecake.appcake2.ios6.deb
-Size: 4 595 808
+Size: 4595808
 MD5sum: 252c83feff126e6696e5fd7dce87580c
-Description: AppCake for iOS 6
-Name: AppCake iOS6
+Description: AppCake for iOS 6 devices.
+Name: AppCake for iOS 6
 Author: Pinta
-Depiction: https://5pinta.github.io/pintas_repo/depictions/com.iphonecake.appcake2.ios6
+Depiction: https://5pinta.github.io/pintas_repo/depictions/appcake
 
+Package: io.pangu.axe7_0.3_iphoneos-arm.deb
+Version: 7.0.3
+Section: System
+Maintainer: Pinta
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/io.pangu.axe7_0.3_iphoneos-arm.deb
+Size: 107276
+MD5sum: 3d86ef34bda9287e6081dda95b7593dd
+Description: Pangu Update Patch
+Name: Pangu Update Patch
+Author: Pinta
+Depiction: https://5pinta.github.io/pintas_repo/depictions/pangu
 
+Package: nodelete-ai.akemi.appsyncunified.deb
+Version: 110.0
+Section: Tweaks
+Maintainer: Pinta
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+Description: AppSync
+Name: AppSync
+Author: Pinta
+Depiction: https://5pinta.github.io/pintas_repo/depictions/appsync
 
